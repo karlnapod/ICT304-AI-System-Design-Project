@@ -4,6 +4,7 @@ Assignment 1 and Final Project for ICT304 AI System Design.
 
 ## Repository structure
 
+```text
 ICT304-AI-System-Design-Project/
 ├── README.md
 ├── .gitignore
@@ -18,4 +19,4 @@ ICT304-AI-System-Design-Project/
 └── Isic2019/                          (LOCAL ONLY, not pushed to GitHub)
     ├── ISIC_2019_Training_Input/      (original images)
     └── ISIC_2019_Training_Input_256/  (preprocessed images)
-
+```
