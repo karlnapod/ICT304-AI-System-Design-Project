@@ -1,2 +1,7 @@
-﻿Isic2019/
-.ipynb_checkpoints/
+﻿# Ignore dataset
+Isic2019/*
+!Isic2019/resnet18_isic2019_best.pt
+
+# Python
+__pycache__/
+*.pyc
