@@ -16,7 +16,6 @@ ICT304-AI-System-Design-Project/
 │   ├── roc_curves.png
 │   └── roc_macro.png
 └── Isic2019/                          (LOCAL ONLY, not pushed to GitHub)
-    ├── ISIC_2019_Training_Input/
-    │   └── ISIC_2019_Training_Input/  (original images)
-    └── ISIC_2019_Training_Input_256/
-        └── ISIC_2019_Training_Input/  (preprocessed images)
+    ├── ISIC_2019_Training_Input/      (original images)
+    └── ISIC_2019_Training_Input_256/  (preprocessed images)
+
