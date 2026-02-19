@@ -15,12 +15,11 @@ ICT304-AI-System-Design-Project/
 ├── pre_process.py
 ├── results/
 │   └── (evaluation plots only)
-├── Isic2019/
-│   └── resnet18_isic2019_best.pt
 ├── Before_ISIC_0000000.jpg
 ├── After_ISIC_0000000.jpg
 ├── .gitignore
 └── Isic2019/                          (LOCAL ONLY, not pushed to GitHub)
     ├── ISIC_2019_Training_Input/      (original images)
+    ├── resnet18_isic2019_best.pt
     └── ISIC_2019_Training_Input_256/  (preprocessed images)
 ```
