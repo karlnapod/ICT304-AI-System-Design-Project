@@ -1,0 +1,30 @@
+# DermaBoss — Python Dependencies
+# Tested on Anaconda with Python 3.11
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# IMPORTANT:
+# Install torch/torchvision FIRST using the correct CUDA index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+
+
+# Deep Learning framework
+torch>=2.10.0
+torchvision>=0.25.0
+
+
+numpy>=1.26.4
+pandas>=2.2.1
+
+
+Pillow>=10.2.0
+
+scikit-learn>=1.8.0
+
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+tqdm>=4.66.0
+
+kaggle>=2.0.0
