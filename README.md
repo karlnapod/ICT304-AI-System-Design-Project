@@ -25,3 +25,19 @@ ICT304-AI-System-Design-Project/
     ├── resnet18_isic2019_best.pt
     └── ISIC_2019_Training_Input_256/  (preprocessed images) (LOCAL ONLY, not pushed to GitHub)
 ```
+## System Architecture
+
+### Preprocessing Pipeline
+<p align="center">
+  <img src="preprocessing_pipeline.png" width="700">
+</p>
+
+### Training Pipeline
+<p align="center">
+  <img src="training_pipeline.png" width="700">
+</p>
+
+### Inference Pipeline
+<p align="center">
+  <img src="inference_pipeline.png" width="700">
+</p>
