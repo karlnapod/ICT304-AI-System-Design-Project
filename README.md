@@ -29,7 +29,7 @@ ICT304-AI-System-Design-Project/
 
 ### Preprocessing Pipeline
 <p align="center">
-  <img src="preprocessing_pipeline.png" width="700">
+  <img src="preprocessing_pipeline.png" width="1200">
 </p>
 
 ### Training Pipeline
@@ -39,5 +39,5 @@ ICT304-AI-System-Design-Project/
 
 ### Inference Pipeline
 <p align="center">
-  <img src="inference_pipeline.png" width="700">
+  <img src="inference_pipeline.png" width="1200">
 </p>
