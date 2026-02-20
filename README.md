@@ -34,7 +34,7 @@ ICT304-AI-System-Design-Project/
 
 ### Training Pipeline
 <p align="center">
-  <img src="training_pipeline.png" width="700" height="1500">
+  <img src="training_pipeline.png" height="1000">
 </p>
 
 ### Inference Pipeline
