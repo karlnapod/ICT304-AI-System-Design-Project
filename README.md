@@ -20,8 +20,8 @@ ICT304-AI-System-Design-Project/
 ├── Before_ISIC_0000000.jpg
 ├── After_ISIC_0000000.jpg
 ├── .gitignore
-└── Isic2019/                          (LOCAL ONLY, not pushed to GitHub)
-    ├── ISIC_2019_Training_Input/      (original images)
+└── Isic2019/                          
+    ├── ISIC_2019_Training_Input/      (original images) (LOCAL ONLY, not pushed to GitHub)
     ├── resnet18_isic2019_best.pt
-    └── ISIC_2019_Training_Input_256/  (preprocessed images)
+    └── ISIC_2019_Training_Input_256/  (preprocessed images) (LOCAL ONLY, not pushed to GitHub)
 ```
